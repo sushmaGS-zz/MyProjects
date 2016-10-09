@@ -1,0 +1,13 @@
+    I#1	I#2	I#3	I#4	I#5	I#6	I#7	I#8	
+c#1 IF	 	 	 	 	 	 	 	
+c#2 ID	IF	 	 	 	 	 	 	
+c#3 EX	ID	IF	 	 	 	 	 	
+c#4 M1	EX	ID	IF	 	 	 	 	
+c#5 WB	M1	EX	ID	IF	 	 	 	
+c#6  	WB	M1	EX	ID	IF	 	 	
+c#7  	 	WB	M1	EX	ID	IF	 	
+c#8  	 	 	WB	M1	EX	ID	IF	
+c#9  	 	 	 	WB	M1	EX	ID	
+c#10 	 	 	 	 	WB	M1	EX	
+c#11 	 	 	 	 	 	WB	M1	
+c#12 	 	 	 	 	 	 	WB	
