@@ -27,8 +27,8 @@ public class Main {
 		Scanner kb = new Scanner(System.in);
 		//System.out.print("Enter input filename: ");
 		//String inputFile = kb.nextLine();
-		String inputFile = "C:\\Users\\hemanthsivaram\\Documents\\workspace\\adv topics\\MIPS\\src\\com\\sample1\\"
-				+ "input.txt";
+		String inputFile = "MIPS-Pipeline-Simulator/src/input/input.txt";
+				
 		File file = new File(inputFile);
 		
 		//initialize file reader
@@ -124,12 +124,10 @@ public class Main {
 		//initialize file writers
 		System.out.print("Enter timing filename: ");
 		//String timingfile = kb.nextLine();
-		String timingfile = "C:\\Users\\hemanthsivaram\\Documents\\workspace\\adv topics\\MIPS\\src\\com\\sample1\\"
-				+ "timingfile.txt";
+		String timingfile = "MIPS-Pipeline-Simulator/src/input/timingfile.txt";
 		System.out.print("Enter register filename: ");
 		//String registerfile = kb.nextLine();
-		String registerfile = "C:\\Users\\hemanthsivaram\\Documents\\workspace\\adv topics\\MIPS\\src\\com\\sample1\\"
-				+ "registerfile.txt";
+		String registerfile = "MIPS-Pipeline-Simulator/src/input/registerfile.txt";
 		//close scanner
 		kb.close();
 		
